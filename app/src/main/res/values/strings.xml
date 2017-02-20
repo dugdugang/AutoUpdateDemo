@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoUpdateDemo</string>
+    <string name="update_download_failed_msg">msg</string>
+    <string name="update_download_failed">failed</string>
+</resources>
